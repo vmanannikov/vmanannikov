@@ -8,7 +8,7 @@ For a long time I have been developing on the basis of Oracle products (CRM, BI,
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [manhetan@gmail.com](mailto:manhetan@gmail.com)
-* 🚀  I'm currently working on [Page Analyzer](http://github.com/vmanannikov/java-project-72)
+* 🚀  I'm currently working on [Task Manager](http://github.com/vmanannikov/java-project-99)
 * 🧠  I'm learning Kubernetes
 
 <a href="https://www.x.com/vvmanannikov" target="_blank" rel="noreferrer"><img
