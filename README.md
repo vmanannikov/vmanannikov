@@ -6,8 +6,7 @@ Java Developer
 
 For a long time I have been developing on the basis of Oracle products (CRM, BI, ETL) in which I have achieved great results on various projects. Literally about four years ago, I began to pay more attention to Open Source projects in Java and React.
 
-* 🌍  I'm based in Moscow
-* ✉️  You can contact me at [manhetan@gmail.com](mailto:manhetan@gmail.com)
+* ✉️  You can contact me at [manhetan@gmail.com](mailto:manhetan@gmail.com) or via Telegram link in the profile
 
 <a href="https://www.x.com/vvmanannikov" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/vvmanannikov?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
